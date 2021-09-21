@@ -1,0 +1,218 @@
+#header {
+    background: linear-gradient(0.25turn, rgb(255, 0, 0), rgb(252, 35, 35), wheat);
+    position: fixed;
+    color: black;
+    font-size: 1.5em;
+    width: 100%;
+    margin-top: -25px;
+    height: 150px;
+
+}
+
+body {
+    margin: 0 auto;
+}
+
+#header a {
+    color: black;
+    text-decoration: none;
+}
+
+#header button {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-color: rgb(75, 40, 40);
+    border-width: 2px;
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    margin-right: 0px;
+    margin-left: 150px;
+    display: inline-block;
+    position: static;
+}
+
+#header button:hover {
+    background-color: rgb(224, 30, 30);
+    border-color: white;
+
+}
+
+#header>* {
+    margin-top: 30px;
+}
+
+#logo {
+    width: 8%;
+    height: 8%;
+    margin-left: 170px;
+    margin-bottom: -50px;
+}
+
+#strong {
+    color: red;
+    border-style: solid;
+    border-top: red;
+    border-left: red;
+    border-right: red;
+}
+
+#firstHead {
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    font-size: 45px;
+    color: rgb(148, 142, 142);
+    text-shadow: 2px 1px #000000;
+
+}
+
+#indexP {
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 350px;
+    line-height: 50px;
+}
+
+#meny {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 28px;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-color: rgb(75, 40, 40);
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 15px;
+    cursor: pointer;
+    margin-right: 0px;
+    margin-left: 650px;
+    align-items: center;
+
+}
+
+#meny:hover {
+    background-color: rgb(255, 0, 0);
+    border-style: double;
+    border-color: red;
+}
+
+
+.contact {
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+    width: 50%;
+    margin-left: 350px;
+    line-height: 30px;
+}
+
+.titleMeny {
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 28px;
+    border-bottom: 2px solid red;
+    margin-left: 650px;
+    margin-right: 650px;
+
+
+
+}
+
+.imgs {
+    height: 350px;
+    width: 350px;
+    margin: 60px;
+    border-style: solid;
+    border-color: rgb(75, 40, 40);
+    border-radius: 50px;
+
+}
+
+.imageP1 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 28px;
+    margin-left: 150px;
+    margin-top: -30px;
+}
+
+.imageP2 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 28px;
+    margin-left: 630px;
+    margin-top: -60px;
+}
+
+.imageP3 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 28px;
+    margin-left: 1100px;
+    margin-top: -60px;
+}
+
+
+
+.time {
+    font-family: 'Work Sans', sans-serif;
+    border-style: groove;
+    border-color: rgb(75, 40, 40);
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 40px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 7px 7px 10px 3px rgb(116, 116, 116);
+    background-color: white;
+}
+
+.time h2 {
+    color: gray;
+}
+
+#footer {
+    margin-top: 150px;
+    background-color: rgb(49, 36, 36);
+    background: linear-gradient(1.5turn, rgb(61, 33, 33), rgb(26, 26, 26));
+
+    width: 100%;
+    height: 170px;
+}
+
+#adressF {
+    font-family: 'Work Sans', sans-serif;
+    margin-left: 50px;
+    margin-top: 70px;
+    color: white;
+    font-size: 28px;
+    float: left;
+}
+
+#tlfF {
+    font-family: 'Work Sans', sans-serif;
+    margin-right: 50px;
+    margin-top: 80px;
+    color: white;
+    font-size: 28px;
+    float: right;
+    align-items: center;
+
+}
+
+#mainTitle {
+    font-size: 20px;
+    margin-top: -15px;
+    font-family: cursive;
+    border-style: solid;
+    background-color: red;
+    border-color: red;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 600px;
+    margin-right: 600px;
+}
